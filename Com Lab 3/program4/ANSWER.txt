@@ -1,0 +1,19 @@
+Q1) Result = 135.000000
+
+
+
+Q2)
+
+because a and b is integers(int) but c is character(char) so when the print the sum of those 3 
+a+b is OK
+but 
+a+b+c is not OK 
+in this time  'A' will get it's ASCII value its equal to 65
+
+so the output will 135.00
+
+a + b = 70.0
+
+so the output will
+
+a + b + c =  135.00
